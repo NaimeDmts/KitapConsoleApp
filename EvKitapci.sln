@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EvKitapci", "EvKitapci\EvKitapci.csproj", "{F8ECF09E-0B9F-4644-BAF3-BA3897DFA07C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "manytomany", "manytomany\manytomany.csproj", "{9941C53D-0C23-4245-ACF8-97340CB89A71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8ECF09E-0B9F-4644-BAF3-BA3897DFA07C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8ECF09E-0B9F-4644-BAF3-BA3897DFA07C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8ECF09E-0B9F-4644-BAF3-BA3897DFA07C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8ECF09E-0B9F-4644-BAF3-BA3897DFA07C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9941C53D-0C23-4245-ACF8-97340CB89A71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9941C53D-0C23-4245-ACF8-97340CB89A71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9941C53D-0C23-4245-ACF8-97340CB89A71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9941C53D-0C23-4245-ACF8-97340CB89A71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3DC7C7E-DDAA-4CBF-8EBA-EA28CA1A5A05}
+	EndGlobalSection
+EndGlobal
